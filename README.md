@@ -1,5 +1,5 @@
 # spiderman
-I made spider man logo by turtle module
+#I made spider man logo by turtle module
 import turtle
 
 # l = left
